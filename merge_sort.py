@@ -53,25 +53,4 @@ def merge_sort(in_list):
             right_index += 1
     return out_list
 
-print merge_sort(["a", "a", "c", "a"])
-print is_list_sorted([True, False, True])
-print merge_sort(["abc", "aab", "caa", "-**"])
-print merge_sort([True, True, False, True, False])
-print merge_sort([1])
-print "one"
-print merge_sort([2, 1])
-print "two"
-print merge_sort([1, 2])
-print "two"
-print merge_sort([1, 2, 3])
-print "three"
-print merge_sort([1, 1, 1])
-print "three"
-print merge_sort([1, 1, 2])
-print "three"
-print merge_sort([1, 3, 5, 7, 9])
-print "five"
-print merge_sort([1, 3, 5, 7, 9, 2, 4, 6, 8])
-print "done"
-print merge_sort([0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0])
-print merge_sort([9, 9, 9, 9, 9, 9, 9, 1, 1, 1, 1, 1, 1, 1, 1])
+
