@@ -1,6 +1,6 @@
 The depot contains a number of implementations of algortihms in python.
 
-These have not been tested for accuracy, but not for performance.
+These have been tested for accuracy, but not for performance.
 
 The following algorithms have been implemented:
     1) count_inversions_py
